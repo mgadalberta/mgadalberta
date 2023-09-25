@@ -1,7 +1,5 @@
 # Mohamed Gad
 
-======================
-
 ## Title
 
 Database and systems development specialist.
